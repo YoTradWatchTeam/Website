@@ -18,7 +18,7 @@ title = "Projects"
   display: inline-block;
   margin: 5px;
   background-color: #242426;
-  height: 430px;
+  height: 230px;
   width: 350px;
   border-radius: 10px;
   box-shadow: 4px 4px 6px grey;
@@ -34,10 +34,16 @@ title = "Projects"
   font-family: 'Inconsolata', monospace;
 }
 
+.caca {
+  display: flex;
+  align-items: center;
+}
 .caca img {
-  width: 50%;
-  margin: -55px 25% 0px;
+  width: 35%;
+  margin: -55px 5px 0px;
   border-radius: 50%;
+  border: 5px #242426 solid;
+  background: #242426;
 }
 
 .card h2 + p {
@@ -57,12 +63,11 @@ title = "Projects"
 
 <div class="card">
   <div class="header">
-    <img src="https://usrbg.is-hardly.online/usrbg/v2/363391883755651072?d4e3" />
+    <img src="https://c.tenor.com/VhM-bJzSLvcAAAAC/tenor.gif" />
   </div>
   <div class="caca">
-    <img src="https://pfp-discord.nhsoul.workers.dev/363391883755651072?size=4096" alt="Avatar">
+    <img src="https://pfp-discord.nhsoul.workers.dev/363391883755651072?size=4096" alt="Avatar"> NнPro
   </div>
-<p>NhPro</p>
 </div>
 
 <div class="card">
@@ -70,9 +75,8 @@ title = "Projects"
     <img src="https://usrbg.is-hardly.online/usrbg/v2/363391883755651072?d4e3" />
   </div>
   <div class="caca">
-    <img src="https://pfp-discord.nhsoul.workers.dev/363391883755651072?size=4096" alt="Avatar">
+    <img src="https://pfp-discord.nhsoul.workers.dev/1168492892155805818?size=4096" alt="Avatar"> Luigi31
   </div>
-<p>NhPro</p>
 </div>
 
 
