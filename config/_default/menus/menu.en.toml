@@ -1,0 +1,5 @@
+#  menu items
+[[main]]
+  name = "Traductions"
+  weight = 5
+  url = "blog/"
