@@ -1,3 +1,2 @@
-## Guide
-
-This guide covers the necessary bits. As the project evolves, it will only become more comprehensive
+## Yo-Trad Watch Team website
+Sheesh maggl, ya rien a voir ici, si tu veux ajouter des "articles" c'est dans content le reste t'y touche pas stp
