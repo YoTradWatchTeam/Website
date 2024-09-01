@@ -3,3 +3,8 @@
   name = "Traductions"
   weight = 5
   url = "blog/"
+
+[[main]]
+name = "Membres"
+weight = 6
+url = "membres/"
