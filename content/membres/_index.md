@@ -97,7 +97,7 @@ hr.rounded {
   <hr class="rounded">
   <div class="chip">
     <div class="dot"></div>
-    <span class="name">Développeur</span>
+    <span class="name"> Développeur</span>
   </div>
 </div>
 
