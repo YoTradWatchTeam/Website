@@ -2,7 +2,7 @@
 author = "NhPro"
 date = 2024-07-10
 title = "Yokai-Watch Blasters 2 Patch 🇫🇷"
-image = "../images/partie_inferieure.png"
+image = "/Website/images/partie_inferieure.png"
 +++
 
 ## La sortie enfiiiiiin

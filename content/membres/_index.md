@@ -89,7 +89,7 @@ hr.rounded {
 
 <div class="card">
   <div class="header">
-    <img src="../images/banners/nhpro.gif" />
+    <img src="/Website/images/banners/nhpro.gif" />
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/363391883755651072?size=4096" alt="Avatar"> NнPro
@@ -112,7 +112,7 @@ hr.rounded {
 
 <div class="card">
   <div class="header">
-    <img src="../images/banners/th.gif" />
+    <img src="/Website/images/banners/th.gif" />
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/698147674829881434?size=4096" alt="Avatar"> Th
@@ -121,7 +121,7 @@ hr.rounded {
 
 <div class="card">
   <div class="header">
-    <img src="../images/banners/yo-3ds.webp" />
+    <img src="/Website/images/banners/yo-3ds.webp" />
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/1020387684071510107?size=4096" alt="Avatar"> Yo <p style="margin: 1px">-</p> 3DS
@@ -130,7 +130,7 @@ hr.rounded {
 
 <div class="card">
   <div class="header">
-    <img src="../images/banners/nono.jpg" />
+    <img src="/Website/images/banners/nono.jpg" />
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/1050437584653914143?size=4096" alt="Avatar"> nono
@@ -148,7 +148,7 @@ hr.rounded {
 
 <div class="card">
   <div class="header">
-    <img src="../images/banners/darkved.gif" />
+    <img src="/Website/images/banners/darkved.gif" />
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/819970166435610645?size=4096" alt="Avatar"> Darkved
