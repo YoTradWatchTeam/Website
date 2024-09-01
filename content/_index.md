@@ -24,6 +24,6 @@ n'hésitez pas a rejoindre le [discord](https://discord.gg/SXvWgZgkWv) !
 {{< /column >}}
 
 {{< column >}}
-![heheheha](/images/logo-yo-trad.png)
+![heheheha](images/logo-yo-trad.png)
 {{< /column >}}
 {{< /block >}}
