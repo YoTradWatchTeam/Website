@@ -31,11 +31,11 @@ title = "Projects"
   font-family: "Inconsolata", monospace;
 }
 
-.caca {
+.profileimage {
   display: flex;
   align-items: center;
 }
-.caca img {
+.profileimage img {
   width: 35%;
   margin: -55px 5px 0px;
   border-radius: 50%;
@@ -93,7 +93,7 @@ hr.rounded {
   <div class="header">
     <img src="/images/banners/nhpro.gif"/>
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/363391883755651072?size=4096" alt="Avatar"> NнPro
   </div>
   <hr class="rounded">
@@ -111,7 +111,7 @@ hr.rounded {
   <div class="header">
     <img src="https://usrbg.is-hardly.online/usrbg/v2/363391883755651072?d4e3" />
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/1168492892155805818?size=4096" alt="Avatar"> Luigi31
   </div>
   <hr class="rounded">
@@ -125,7 +125,7 @@ hr.rounded {
   <div class="header">
     <img src="/images/banners/th.gif" />
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/698147674829881434?size=4096" alt="Avatar"> Th
   </div>
 </div>
@@ -134,7 +134,7 @@ hr.rounded {
   <div class="header">
     <img src="/images/banners/yo-3ds.webp" />
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/1020387684071510107?size=4096" alt="Avatar"> Yo <p style="margin: 1px">-</p> 3DS
   </div>
 </div>
@@ -143,7 +143,7 @@ hr.rounded {
   <div class="header">
     <img src="/images/banners/nono.jpg" />
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/1050437584653914143?size=4096" alt="Avatar"> nono
   </div>
 </div>
@@ -152,7 +152,7 @@ hr.rounded {
   <div class="header">
     <img src="https://media1.tenor.com/m/wRKppcFJEe8AAAAC/ducks.gif" />
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/1130786924404158465?size=4096" alt="Avatar"> Duckie
   </div>
 </div>
@@ -161,7 +161,7 @@ hr.rounded {
   <div class="header">
     <img src="/images/banners/darkved.gif" />
   </div>
-  <div class="caca">
+  <div class="profileimage">
     <img src="https://pfp-discord.nhsoul.workers.dev/819970166435610645?size=4096" alt="Avatar"> Darkved
   </div>
 </div>
