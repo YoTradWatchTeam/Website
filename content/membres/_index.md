@@ -55,9 +55,10 @@ title = "Projects"
 .dot {
   height: 10px;
   width: 10px;
-  background-color: #ff0000;
+  background-color: #ffffff;
   border-radius: 50%;
   display: inline-block;
+  margin-right: 2px;
 }
 
 .chip {
@@ -66,7 +67,7 @@ title = "Projects"
   border: 1px solid var(--bg);
   border-radius: 6px;
   background-color: var(--bg);
-  margin: 10px;
+  margin: 0px -10px 5px 10px;
 }
 
 .chip .name {
@@ -79,9 +80,10 @@ title = "Projects"
 }
 
 hr.rounded {
-  border-top: 2px solid var(--bg);
-  border-radius: 5px;
-  margin: 5px 5px 0px;
+  border: 1px solid var(--bg);
+  background-color: var(--bg);
+  border-radius: 1px;
+  margin: 0px 5px 5px 5px;
 }
 
 </style>
@@ -89,15 +91,19 @@ hr.rounded {
 
 <div class="card">
   <div class="header">
-    <img src="/images/banners/nhpro.gif" />
+    <img src="/images/banners/nhpro.gif"/>
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/363391883755651072?size=4096" alt="Avatar"> NнPro
   </div>
   <hr class="rounded">
   <div class="chip">
-    <div class="dot"></div>
-    <span class="name"> Développeur</span>
+    <div class="dot" style="background-color: #0095ff"></div>
+    <span class="name">Développeur</span>
+  </div>
+  <div class="chip">
+    <div class="dot" style="background-color: #ff8000"></div>
+    <span class="name">Community Manager</span>
   </div>
 </div>
 
@@ -107,6 +113,11 @@ hr.rounded {
   </div>
   <div class="caca">
     <img src="https://pfp-discord.nhsoul.workers.dev/1168492892155805818?size=4096" alt="Avatar"> Luigi31
+  </div>
+  <hr class="rounded">
+  <div class="chip">
+    <div class="dot" style="background-color: #0095ff"></div>
+    <span class="name">Développeur</span>
   </div>
 </div>
 
