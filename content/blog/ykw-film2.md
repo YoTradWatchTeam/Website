@@ -2,7 +2,7 @@
 author = "NhPro"
 date = 2024-05-27
 title = "Yo-Kai Watch The Movie 2 - Le Grand Roi Enma et les Cinq Contes, Nyan !"
-image = "/Website/images/ykw-film2.jpg"
+image = "/images/ykw-film2.jpg"
 +++
 
 ## Découvrez la Traduction de "Yo-Kai Watch The Movie 2 - Le Grand Roi Enma et les Cinq Contes, Nyan !"
