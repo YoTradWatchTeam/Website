@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://yotradwatchteam.github.io"
 title = "Yo-Trad Watch Team"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
