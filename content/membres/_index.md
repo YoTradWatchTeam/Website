@@ -67,7 +67,7 @@ title = "Projects"
   border: 1px solid var(--bg);
   border-radius: 6px;
   background-color: var(--bg);
-  margin: 0px -10px 5px 10px;
+  margin: 0px 0px 5px 10px;
 }
 
 .chip .name {
