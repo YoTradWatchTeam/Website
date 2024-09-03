@@ -55,7 +55,7 @@ title = "Projects"
 .dot {
   height: 10px;
   width: 10px;
-  background-color: #ffffff;
+  background-color: #000000;
   border-radius: 50%;
   display: inline-block;
   margin-right: 2px;
