@@ -11,13 +11,13 @@ title = "Projects"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# **Yo Trad Watch Team**
+# **Yo-Trad Watch Team**
 
 Salut 👋, juste ici vous trouverez toutes nos traductions !
 
 
 {{< tip >}}
-Nous nous donnons a coeur pour faire nos traductions, la méthode la plus simple pour nous aider est de nous communiquer les bugs donc 
+Nous nous donnons à cœur pour faire nos traductions, la méthode la plus simple pour nous aider est de nous communiquer les bugs donc 
 n'hésitez pas a rejoindre le [discord](https://discord.gg/SXvWgZgkWv) !
 {{< /tip >}}
 
