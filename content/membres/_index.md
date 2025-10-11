@@ -144,7 +144,7 @@ hr.rounded {
     <img src="/images/banners/nono.jpg" />
   </div>
   <div class="profileimage">
-    <img src="https://pfp-discord.nhsoul.workers.dev/1050437584653914143?size=4096" alt="Avatar"> nono
+    <img src="https://pfp-discord.nhsoul.workers.dev/1050437584653914143?size=4096" alt="Avatar"> N0N0
   </div>
 </div>
 
